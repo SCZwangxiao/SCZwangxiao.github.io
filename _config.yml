@@ -22,7 +22,7 @@ repository               : "SCZwangxiao/SCZwangxiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Xiao Wang (王霄)"
   pronouns         : # example: "she/her"  
   bio              : "Hoping to reshape the future through multi-modal intelligent systems."
