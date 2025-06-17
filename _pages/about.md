@@ -19,11 +19,11 @@ Xiao Wang is 2nd-year PhD student from the [Harbin Institute of Technology, Shen
 
 # Selected Publications
 
-- AdaReTaKe: Flexible Redundancy Reduction to Perceive Longer for Video-language Understanding. *Xiao Wang, Qingyi Si, Jianlong Wu, Li Cao, Liqiang Nie.* Under review. [\[paper\]](https://arxiv.org/abs/2503.12559)
+- AdaReTaKe: Flexible Redundancy Reduction to Perceive Longer for Video-language Understanding. *Xiao Wang, Qingyi Si, Jianlong Wu, Li Cao, Liqiang Nie.* ACL'25. [\[paper\]](https://arxiv.org/abs/2503.12559), Reported by [Synced](https://ishare.ifeng.com/c/s/v002BsxVzIWXd30V7ekDUYXjFjNh3VXYkCNXbelZgbW-_xgQ)
 
 - ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding. *Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie.* Under review. [\[paper\]](https://arxiv.org/abs/2412.20504)
 
-- HAIC: Improving Human Action Understanding with Better Captions. *Xiao Wang, Jingyun Hua, Weihong Lin, Yuanxing Zhang, Fuzheng Zhang, Jianlong Wu, Di Zhang, Liqiang Nie.* Under review. [\[paper\]](https://arxiv.org/abs/2502.20811)
+- HAIC: Improving Human Action Understanding with Better Captions. *Xiao Wang, Jingyun Hua, Weihong Lin, Yuanxing Zhang, Fuzheng Zhang, Jianlong Wu, Di Zhang, Liqiang Nie.* ACL'25. [\[paper\]](https://arxiv.org/abs/2502.20811)
 
 - Video DataFlywheel: Resolving the Impossible Data Trinity in Video-Language Understanding. *Xiao Wang, Jianlong Wu, Zijia Lin, Fuzheng Zhang, Di Zhang, Liqiang Nie.* TPAMI'25. [\[paper\]](https://arxiv.org/abs/2409.19532)
 
