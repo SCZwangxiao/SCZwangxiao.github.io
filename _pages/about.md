@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Xiao Wang is 2nd-year PhD student from the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html). His research interests include Multi-modal Large Language Models, Video Understanding, and Video Generation. 
-He has interned at JD, Huawei, and Kuaishou, where he closely integrated research with real-world applications, and has published many top-tier international conference papers and journal articles in his research area.
+Xiao Wang is 3rd-year PhD student from the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html). His research interests include Multi-modal Large Language Models, Video Understanding, and Video Generation. 
+He has interned at JD, Huawei, Kuaishou, and Anuttacon, where he closely integrated research with real-world applications, and has published many top-tier international conference papers and journal articles in his research area.
 
 
 # Education
